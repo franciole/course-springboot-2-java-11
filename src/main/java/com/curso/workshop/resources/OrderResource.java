@@ -1,4 +1,4 @@
-package com.curso.workshop.resorces;
+package com.curso.workshop.resources;
 
 import java.util.List;
 
